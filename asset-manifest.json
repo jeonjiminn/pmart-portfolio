@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/pmart-portfolio/static/css/main.0e4852ad.css",
-    "main.js": "/pmart-portfolio/static/js/main.4783b078.js",
+    "main.js": "/pmart-portfolio/static/js/main.aace23e7.js",
     "static/js/453.55b63d3c.chunk.js": "/pmart-portfolio/static/js/453.55b63d3c.chunk.js",
     "static/media/slider-1.webp": "/pmart-portfolio/static/media/slider-1.bc5331cbcdd2100e1a30.webp",
     "static/media/slider-2.webp": "/pmart-portfolio/static/media/slider-2.434183bcc926886d958d.webp",
     "static/media/slider-3.webp": "/pmart-portfolio/static/media/slider-3.6638919b9f00b555c074.webp",
     "index.html": "/pmart-portfolio/index.html",
     "main.0e4852ad.css.map": "/pmart-portfolio/static/css/main.0e4852ad.css.map",
-    "main.4783b078.js.map": "/pmart-portfolio/static/js/main.4783b078.js.map",
+    "main.aace23e7.js.map": "/pmart-portfolio/static/js/main.aace23e7.js.map",
     "453.55b63d3c.chunk.js.map": "/pmart-portfolio/static/js/453.55b63d3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e4852ad.css",
-    "static/js/main.4783b078.js"
+    "static/js/main.aace23e7.js"
   ]
 }
